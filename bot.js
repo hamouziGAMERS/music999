@@ -349,7 +349,7 @@ client.on('ready', () => {
       console.log(`ON ${client.guilds.size} Servers '     Script By : DrTriCk ' `);
     console.log(`----------------`);
   console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(`9play | Last Music`,"http://twitch.tv/DrTriCk ")
+client.user.setGame(`9play | By VAIROS`,"http://twitch.tv/DrTriCk ")
 client.user.setStatus("dnd")
 });
 
